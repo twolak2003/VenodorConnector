@@ -151,8 +151,3 @@ Python 3 (for interactive client)
 License
 
 This project is provided for demonstration purposes. No license.
-
-
-This version includes **instructions for running and using the Python interactive client**.  
-
-If you want, I can also create a **minimal `mock_server.py`** snippet to go along with it. Do you want me to do that?
